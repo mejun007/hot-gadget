@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 30px;
+    margin-bottom:20px;
 }
 .carousel-item{
     padding: 20px 40px;
@@ -49,4 +49,7 @@
 .card{
     border: none;
     box-shadow: 5px 5px 20px lightgray;
+}
+.laptop-mrg{
+    margin-top: 100px;
 }
